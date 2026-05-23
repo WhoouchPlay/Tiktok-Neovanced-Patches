@@ -1,4 +1,4 @@
-rootProject.name = "revanced-patches-template"
+rootProject.name = "tiktok-neovanced-patches"
 
 pluginManagement {
     repositories {
